@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="33" started-at="2021-10-24T07:20:01Z" finished-at="2021-10-24T07:20:01Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="33" started-at="2021-10-24T07:20:01Z" finished-at="2021-10-24T07:20:01Z">
+      <class name="testNG.Testsuite2">
+        <test-method status="PASS" signature="suite4()[pri:0, instance:testNG.Testsuite2@42d80b78]" name="suite4" duration-ms="16" started-at="2021-10-24T12:50:01Z" finished-at="2021-10-24T12:50:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- suite4 -->
+        <test-method status="PASS" signature="suite6()[pri:100, instance:testNG.Testsuite2@42d80b78]" name="suite6" duration-ms="0" started-at="2021-10-24T12:50:01Z" finished-at="2021-10-24T12:50:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- suite6 -->
+        <test-method status="PASS" signature="suite5()[pri:0, instance:testNG.Testsuite2@42d80b78]" name="suite5" duration-ms="0" started-at="2021-10-24T12:50:01Z" finished-at="2021-10-24T12:50:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- suite5 -->
+      </class> <!-- testNG.Testsuite2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
